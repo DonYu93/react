@@ -1,11 +1,11 @@
-import React from "recat";
+import React from 'react'
 
 function LandingPage() {
   return (
     <div>
-      LandingPage
+      LandingPage 랜딩페이지
     </div>
-  );
+  )
 }
 
-export default LandingPage;
+export default LandingPage
